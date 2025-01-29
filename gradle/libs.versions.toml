@@ -1,6 +1,6 @@
 [versions]
 kotlin = "2.1.10"
-shadow = "9.0.0-beta6"
+shadow = "9.0.0-SNAPSHOT"
 run-task = "2.3.1"
 
 jgit = "7.1.0.202411261347-r"
