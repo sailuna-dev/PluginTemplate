@@ -58,7 +58,7 @@ open class SetupTask : DefaultTask() {
             ## Requirements
             
             - Java 21
-            - Paper 1.21.4 above
+            - Paper ${project.providers.gradleProperty("mcversion").get()} above
             
             ## Features
             
